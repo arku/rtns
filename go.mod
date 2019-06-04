@@ -14,7 +14,6 @@ require (
 	github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c // indirect
 	github.com/ipfs/go-datastore v0.0.5
 	github.com/ipfs/go-ipfs v0.4.21
-	github.com/ipfs/go-ipfs-cmdkit v0.0.1 // indirect
 	github.com/ipfs/go-ipfs-config v0.0.4
 	github.com/ipfs/go-ipfs-keystore v0.0.1
 	github.com/ipfs/go-ipns v0.0.1
